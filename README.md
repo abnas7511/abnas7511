@@ -5,3 +5,5 @@ I'm Muhammed Abnas, and I'm a front-end web developer and Python programmer base
 I also have expertise in Python programming language, which I use for various applications such as data analysis. I enjoy exploring the vast range of libraries and frameworks that Python has to offer and learning new ways to use them.
 
 As a front-end web developer and Python programmer, I'm constantly striving to improve my skills and stay up to date with the latest industry trends. I'm always on the lookout for new and innovative ways to create stunning web applications that can solve real-world problems and provide value to users.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnas7511)](https://github.com/anuraghazra/github-readme-stats)
