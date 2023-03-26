@@ -1,4 +1,7 @@
 <h1 align="center"> Hi👋, I'm Muhammed Abnas <h1/>
+ <div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Muhammed Abnas | 💻 Frontend Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.anaxinfotech.com/images/website.gif"/>
