@@ -48,8 +48,8 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#760](https://github.com//custom-icon-badges/pull/760) in [/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#759](https://github.com//custom-icon-badges/pull/759) in [/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. 🎉 Merged PR [#29](https://github.com/abnas7511/custom-icon-badges/pull/29) in [/custom-icon-badges](https://github.com/abnas7511/custom-icon-badges)
+2. 🎉 Merged PR [#30](https://github.com/abnas7511/custom-icon-badges/pull/759) in [/custom-icon-badges](https://github.com/abnas7511/custom-icon-badges)
 <!--END_SECTION:activity-->
  
  
