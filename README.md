@@ -49,7 +49,24 @@
 ###  Random Dev Meme
 <img src='https://i.pinimg.com/736x/9c/fe/87/9cfe873a69868ee5d6a8b048ed9dbb7f.jpg' width="400px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
   
-  
+### - What i do
+
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
   <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
