@@ -34,7 +34,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###  Random Dev Meme
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://i.pinimg.com/736x/9c/fe/87/9cfe873a69868ee5d6a8b048ed9dbb7f.jpg' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abnas7511&show_icons=true&locale=en&layout=compact" alt="abnas7511" /></p>
 
