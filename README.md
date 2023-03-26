@@ -1,6 +1,4 @@
-<p align="center"><a href="https://abnas7511.github.io"><img width="80%" alt="Hello, I'm Abnas. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+<h1 align="center"> Hi👋, I'm Abnas <h1/>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.anaxinfotech.com/images/website.gif"/>
