@@ -1,4 +1,4 @@
-<h1 align="center"> Hi👋, I'm Abnas <h1/>
+<h1 align="center"> Hi👋, I'm Muhammed Abnas <h1/>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.anaxinfotech.com/images/website.gif"/>
