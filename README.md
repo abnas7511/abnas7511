@@ -43,16 +43,7 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abnas7511's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=abnas7511&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#29](https://github.com/abnas7511/custom-icon-badges/pull/29) in [/custom-icon-badges](https://github.com/abnas7511/custom-icon-badges)
-2. 🎉 Merged PR [#30](https://github.com/abnas7511/custom-icon-badges/pull/759) in [/custom-icon-badges](https://github.com/abnas7511/custom-icon-badges)
-<!--END_SECTION:activity-->
- 
- 
 ###  Random Dev Meme
 <img src='https://i.pinimg.com/736x/9c/fe/87/9cfe873a69868ee5d6a8b048ed9dbb7f.jpg' width="400px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
