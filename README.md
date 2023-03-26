@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Abnas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.anaxinfotech.com/images/website.gif"/>
+<img align="center" alt="Coding" width="400" src="https://www.anaxinfotech.com/images/website.gif"/>
 
 
 <p align="left"> <a href="https://twitter.com/@abnasmuhammed" target="blank"><img src="https://img.shields.io/twitter/follow/@abnasmuhammed?logo=twitter&style=for-the-badge" alt="@abnasmuhammed" /></a> </p>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abnas7511@gmail.com**
 
-- ⚡ Fun fact **Sure, You'll fed up**
+- ⚡ Fun fact  **Sure, You'll fed up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
