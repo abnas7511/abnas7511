@@ -1,6 +1,7 @@
  <div align="center">
-<h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Muhammed Abnas | 💻 Frontend Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Muhammed Abnas | 💻 Frontend Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+
 
 <img align="right" alt="Coding" width="400" src="https://www.anaxinfotech.com/images/website.gif"/>
 
