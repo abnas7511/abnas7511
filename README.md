@@ -33,11 +33,11 @@
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-###  Random Dev Meme
-<img src='https://i.pinimg.com/736x/9c/fe/87/9cfe873a69868ee5d6a8b048ed9dbb7f.jpg' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abnas7511&show_icons=true&locale=en&layout=compact" alt="abnas7511" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abnas7511&show_icons=true&locale=en" alt="abnas7511" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abnas7511&" alt="abnas7511" /></p>
+
+###  Random Dev Meme
+<img src='https://i.pinimg.com/736x/9c/fe/87/9cfe873a69868ee5d6a8b048ed9dbb7f.jpg' width="400px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
