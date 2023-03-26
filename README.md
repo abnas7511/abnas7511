@@ -39,20 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abnas7511&" alt="abnas7511" /></p>
 
-###  Random Dev Meme
-<img src='https://i.pinimg.com/736x/9c/fe/87/9cfe873a69868ee5d6a8b048ed9dbb7f.jpg' width="400px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-  
-    <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abnas7511's Github Stats" src="https://abnas7511-github-readme-stats.vercel.app/api/?username=abnas7511&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abnas7511's Top Languages" src="https://abnas7511-github-readme-stats.vercel.app/api/top-langs/?username=abnas7511&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abnas7511's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=abnas7511&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
@@ -65,7 +51,8 @@
 1. 🎉 Merged PR [#760](https://github.com//custom-icon-badges/pull/760) in [/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 2. 🎉 Merged PR [#759](https://github.com//custom-icon-badges/pull/759) in [/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
+ 
+ 
+###  Random Dev Meme
+<img src='https://i.pinimg.com/736x/9c/fe/87/9cfe873a69868ee5d6a8b048ed9dbb7f.jpg' width="400px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-</details>
-
-<details> 
