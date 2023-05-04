@@ -53,10 +53,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abnas7511&" alt="abnas7511" /></p>
 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abnas7511's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=abnas7511&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 
 ###  Random Dev Meme
 <img src='https://i.pinimg.com/736x/9c/fe/87/9cfe873a69868ee5d6a8b048ed9dbb7f.jpg' width="400px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
