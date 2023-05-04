@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/@abnasmuhammed" target="blank"><img src="https://img.shields.io/twitter/follow/@abnasmuhammed?logo=twitter&style=for-the-badge" alt="@abnasmuhammed" /></a> </p>
 
-- 🔭 I’m currently working on **REACT**
-
-- 🌱 I’m currently learning **Full Stack Development**
-
 - 👯 I’m looking to collaborate on **Real world projects**
 
 - 💬 Ask me about **Git,Github**
