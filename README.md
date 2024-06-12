@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abnas7511@gmail.com**
 
-- ⚡ Fun fact  **Connecting Similar Minds**
+- ⚡ Fun fact  **Eager to connect with similar minds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
