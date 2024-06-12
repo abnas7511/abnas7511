@@ -1,5 +1,5 @@
  <div align="center">
-<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Muhammed Abnas | 💻 Frontend Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Muhammed Abnas | 💻 Aspiring Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 </div>
 
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abnas7511@gmail.com**
 
-- ⚡ Fun fact  **Sure, You'll fed up**
+- ⚡ Fun fact  **Connecting Similar Minds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
